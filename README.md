@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/ameenbasith938/DSA--Code/tree/master/1086-divisor-game) |
+## Array
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/ameenbasith938/DSA--Code/tree/master/1019-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/ameenbasith938/DSA--Code/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/ameenbasith938/DSA--Code/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
