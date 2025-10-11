@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0874-backspace-string-compare](https://github.com/ameenbasith938/DSA--Code/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/ameenbasith938/DSA--Code/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -40,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/ameenbasith938/DSA--Code/tree/master/0874-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/ameenbasith938/DSA--Code/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/ameenbasith938/DSA--Code/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
