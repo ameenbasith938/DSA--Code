@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ameenbasith938/DSA--Code/tree/master/0474-ones-and-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/ameenbasith938/DSA--Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ameenbasith938/DSA--Code/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ameenbasith938/DSA--Code/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,8 +60,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/ameenbasith938/DSA--Code/tree/master/0874-backspace-string-compare) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ameenbasith938/DSA--Code/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/ameenbasith938/DSA--Code/tree/master/0874-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ameenbasith938/DSA--Code/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ameenbasith938/DSA--Code/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
