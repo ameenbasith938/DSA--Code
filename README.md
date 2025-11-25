@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/ameenbasith938/DSA--Code/tree/master/1086-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ameenbasith938/DSA--Code/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
