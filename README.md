@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/ameenbasith938/DSA--Code/tree/master/1086-divisor-game) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ameenbasith938/DSA--Code/tree/master/0474-ones-and-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/ameenbasith938/DSA--Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ameenbasith938/DSA--Code/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
