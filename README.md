@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0474-ones-and-zeroes](https://github.com/ameenbasith938/DSA--Code/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ameenbasith938/DSA--Code/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/ameenbasith938/DSA--Code/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/ameenbasith938/DSA--Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/ameenbasith938/DSA--Code/tree/master/1590-make-sum-divisible-by-p) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/ameenbasith938/DSA--Code/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/ameenbasith938/DSA--Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ameenbasith938/DSA--Code/tree/master/0561-array-partition) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ameenbasith938/DSA--Code/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/ameenbasith938/DSA--Code/tree/master/1590-make-sum-divisible-by-p) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ameenbasith938/DSA--Code/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
