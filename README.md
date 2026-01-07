@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/ameenbasith938/DSA--Code/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ameenbasith938/DSA--Code/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/ameenbasith938/DSA--Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ameenbasith938/DSA--Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ameenbasith938/DSA--Code/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ameenbasith938/DSA--Code/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ameenbasith938/DSA--Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ameenbasith938/DSA--Code/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/ameenbasith938/DSA--Code/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ameenbasith938/DSA--Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/ameenbasith938/DSA--Code/tree/master/0874-backspace-string-compare) |
@@ -96,9 +99,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ameenbasith938/DSA--Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ameenbasith938/DSA--Code/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ameenbasith938/DSA--Code/tree/master/0561-array-partition) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ameenbasith938/DSA--Code/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ameenbasith938/DSA--Code/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ameenbasith938/DSA--Code/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
