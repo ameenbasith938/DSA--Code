@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0474-ones-and-zeroes](https://github.com/ameenbasith938/DSA--Code/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ameenbasith938/DSA--Code/tree/master/0496-next-greater-element-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ameenbasith938/DSA--Code/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ameenbasith938/DSA--Code/tree/master/0561-array-partition) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/ameenbasith938/DSA--Code/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ameenbasith938/DSA--Code/tree/master/0387-first-unique-character-in-a-string) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ameenbasith938/DSA--Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/ameenbasith938/DSA--Code/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ameenbasith938/DSA--Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ameenbasith938/DSA--Code/tree/master/0451-sort-characters-by-frequency) |
