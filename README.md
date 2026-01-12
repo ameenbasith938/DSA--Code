@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/ameenbasith938/DSA--Code/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/ameenbasith938/DSA--Code/tree/master/1086-divisor-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ameenbasith938/DSA--Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ameenbasith938/DSA--Code/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/ameenbasith938/DSA--Code/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/ameenbasith938/DSA--Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ameenbasith938/DSA--Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/ameenbasith938/DSA--Code/tree/master/1590-make-sum-divisible-by-p) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ameenbasith938/DSA--Code/tree/master/0039-combination-sum) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/ameenbasith938/DSA--Code/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
