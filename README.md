@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ameenbasith938/DSA--Code/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/0049-group-anagrams) |
+| [0274-h-index](https://github.com/ameenbasith938/DSA--Code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0474-ones-and-zeroes](https://github.com/ameenbasith938/DSA--Code/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ameenbasith938/DSA--Code/tree/master/0496-next-greater-element-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/0049-group-anagrams) |
+| [0274-h-index](https://github.com/ameenbasith938/DSA--Code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenbasith938/DSA--Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ameenbasith938/DSA--Code/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ameenbasith938/DSA--Code/tree/master/0561-array-partition) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ameenbasith938/DSA--Code/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/ameenbasith938/DSA--Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ameenbasith938/DSA--Code/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ameenbasith938/DSA--Code/tree/master/0561-array-partition) |
