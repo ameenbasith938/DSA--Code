@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/ameenbasith938/DSA--Code/tree/master/1086-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ameenbasith938/DSA--Code/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ameenbasith938/DSA--Code/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/ameenbasith938/DSA--Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ameenbasith938/DSA--Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/ameenbasith938/DSA--Code/tree/master/1590-make-sum-divisible-by-p) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ameenbasith938/DSA--Code/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/ameenbasith938/DSA--Code/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ameenbasith938/DSA--Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ameenbasith938/DSA--Code/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -142,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ameenbasith938/DSA--Code/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ameenbasith938/DSA--Code/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
